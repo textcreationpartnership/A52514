@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good and joyful news for England: or, The prophecy of the renowned Michael Nostradamus that Charles the II. of Great Britain, France and Ireland King, Defender of the faith, &amp;c. shall have a son of his own body lawfully begotten, that shall succeed him in the imperial throne of Great Britain, and all other his dominions; and reign long after his father, most fortunately and well beloved. As it was taken out of the translations of Dr. Theo. Garencieres, M.D. Col. Lond. Printed 1672. in fol. With observations concerning the present blazing-comet. By J.B. Philalelos, a true and faithful Protestant, of the first and best rate and rank.</title>
+            <author>J. B., Philalelos.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52514</idno>
+            <idno type="STC">Wing N1397A</idno>
+            <idno type="STC">ESTC R216798</idno>
+            <idno type="EEBO-CITATION">99828516</idno>
+            <idno type="PROQUEST">99828516</idno>
+            <idno type="VID">32944</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32944)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2129:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good and joyful news for England: or, The prophecy of the renowned Michael Nostradamus that Charles the II. of Great Britain, France and Ireland King, Defender of the faith, &amp;c. shall have a son of his own body lawfully begotten, that shall succeed him in the imperial throne of Great Britain, and all other his dominions; and reign long after his father, most fortunately and well beloved. As it was taken out of the translations of Dr. Theo. Garencieres, M.D. Col. Lond. Printed 1672. in fol. With observations concerning the present blazing-comet. By J.B. Philalelos, a true and faithful Protestant, of the first and best rate and rank.</title>
+                  <author>J. B., Philalelos.</author>
+                  <author>Garencières, Theophilus, 1610-1680.</author>
+                  <author>Ness, Christopher, 1621-1705.</author>
+                  <author>Nostradamus, 1503-1566.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Allen Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A commentary, by J. B. Philalelos, on part of Nostradamus's 'Prophéties', the English translation of which was published in 1672 under the title 'The true prophecies or prognostications of Michael Nostradamus'.</note>
+                  <note>Includes: 'A second sheet, further blazoning upon the blazing-star', signed at end: C.N., i.e. Christopher Ness, and with a colophon which reads: "Published by L. Curtiss, on Ludgate-hill, 1681".</note>
+                  <note>Marginal notes.</note>
+                  <note>Bodleian Library copy lacks all after p. 8.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Comets --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32944:1" rendition="simple:additions"/>
+            <p>Good and Joyful NEWS FOR ENGLAND: OR, THE PROPHECY Of the Renowned <hi>Michael Noſtradamus,</hi> THAT Charles the II. Of <hi>Great Britain, France</hi> and <hi>Ireland</hi> KING, Defender of the Faith, <hi>&amp;c.</hi> Shall have a SON of his own Body lawfully begotten, that ſhall ſucceed him in the Imperial Throne of <hi>Great Britain,</hi> and all other his Dominions; and Reign long after his Father, moſt fortunately and well beloved.</p>
+            <p>As it was taken out of the Tranſlations of Dr. <hi>Theo. Garencieres, M. D. Col. Lond.</hi> Printed 1672. in Fol.</p>
+            <p>With Obſervations concerning the preſent <hi>BLAZING-COMET:</hi>
+            </p>
+            <p>By <hi>J. B. Philalelos,</hi> a true and faithful <hi>Proteſtant,</hi> of the firſt and beſt Rate and Rank.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Allen Banks,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:32944:2"/>
+            <p>§. 1. THis <hi>Michael Noſtradamus</hi> was a <hi>Phyſician,</hi> a <hi>French<g ref="char:EOLhyphen"/>man,</hi> and a <hi>Papiſt;</hi> and yet was a man of a ſober converſation, and ſpake of many things that are utterly oppoſite both to the <hi>French</hi> and <hi>Popiſh</hi> Intereſt; and ſo by conſequence of his own too, and therefore may ſo much the more aptly be credited, in thoſe things at leaſt which appear to be ſo.</p>
+            <p>§. 2. What is the Reputation of his Prophecies for matter of the verity of them, is ſo well known all over <hi>Europe,</hi> and eſpecially among the Learned who read what is written, that it needs not my Commendations or Teſtimony. It is obſerved unto admiration by all that have read him, how ſtrangely he has forewarned of all the great things that of late years have been acted among us.</p>
+            <p>§. 3. The <hi>Late Wars,</hi> the <hi>Treachery</hi> of the <hi>Scots</hi> in betraying the <hi>King,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.10. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>0,54. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.10. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>6. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>4.89. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 49. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.10. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>6.46 <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>7.13. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>6.74. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 84. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.9.2. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>53. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.2.51.</note> he has noted: Alſo how the <hi>Senate of London</hi> ſhould <hi>put their King to death,</hi> and <hi>baniſh his Son;</hi> and after be <hi>Tribu<g ref="char:EOLhyphen"/>tary</hi> to one with a <hi>bald head,</hi> for <hi>fourteen years;</hi> how <hi>the King ſhould be restored;</hi> and how there would come <hi>Plague</hi> and <hi>Fire</hi> in <hi>London,</hi> becauſe of <hi>the Juſt man</hi> that was <hi>put to death:</hi> And many other ſuch like things he hath written of, which have all proved very true; the moſt of which, woful experience is able to teſtifie: And ſome indeed are ſuch as we may juſtly remem<g ref="char:EOLhyphen"/>ber with great joy.</p>
+            <p>§. 4. True it is indeed, that many of his Prophecies are writ<g ref="char:EOLhyphen"/>ten in myſtical and cloſe Riddles, not to be underſtood as a man runs and reads: But yet are they ſuch as a man who un<g ref="char:EOLhyphen"/>derſtands <hi>History, State-affairs,</hi> and ſomething of <hi>Aſtrologie,</hi> and indeed a taſte of <hi>all ſorts</hi> of Learning, may aptly (with labour and induſtry) unlock the greateſt ſcrutinies thereof; and when they are open'd, they are as plain and eaſie as the King's High-way.</p>
+            <p>§. 5. And whether it was <hi>Naturally</hi> or <hi>Divinely</hi> that the man came by theſe things, God knows; but certain it is, he has been ſo very lucky in all his predictions, that I could never hear of any one ſaying of his, that was certainly fathered by him, and allowed by his Executors, and that was rightly underſtood, that ever was found faulty. And now having thus far beſpoken my Author, come we to his Prophecies: And firſt, ſee what he ſays in general of our Kingdom of <hi>England.</hi>
+               <pb n="3" facs="tcp:32944:2" rendition="simple:additions"/>
+               <q>
+                  <bibl>
+                     <hi>Cent. 10. Stanza 100.</hi>
+                  </bibl>
+                  <l>The great Empire ſhall be in <hi>England,</hi>
+                  </l>
+                  <l>The <hi>Pempoton,</hi> for more then <hi>300</hi> year:</l>
+                  <l>Great Armies ſhall paſs through Sea and Land,</l>
+                  <l>The <hi>Luſitanians</hi> ſhall not be contented there.</l>
+               </q> Here the only hard words are but two, whereof <hi>Pempoton</hi> ſhall ſeem to ſignifie a Toſs-pot, or Good-fellow; and by <hi>Luſita<g ref="char:EOLhyphen"/>nians,</hi> which do properly ſignifie the <hi>Portugals,</hi> may ſeem to be meant of the <hi>Spaniards,</hi> for ſo is his way, by ſome portion thereof to ſpeak of a whole Country. The reſt is plain, accord<g ref="char:EOLhyphen"/>ing to the literal ſence.</p>
+            <p>§. 6. Next ſee what he ſays of his own Country and King<g ref="char:EOLhyphen"/>dom, in relation unto us.
+<q>
+                  <bibl>
+                     <hi>Cent. 3. St. 49. Cent. 9. St. 6.</hi>
+                  </bibl>
+                  <l>There ſhall be in <hi>Guienne</hi> an infinite number of <hi>Engliſh,</hi>
+                  </l>
+                  <l>Who ſhall occupy it by the name of <hi>Angle-Aquitain,</hi>
+                  </l>
+                  <l>Of <hi>Languedoc; I,</hi> by the Land of <hi>Burdeaux,</hi>
+                  </l>
+                  <l>Which afterwards they ſhall call <hi>Bardoxitane.</hi>
+                  </l>
+               </q> And again,
+<q>
+                  <bibl>
+                     <hi>Cent. 6. St. 43. Cent. 9. St. 38.</hi>
+                  </bibl>
+                  <l>The coming in at <hi>Blay</hi> by <hi>Rochel,</hi> and the <hi>Engliſh</hi>
+                  </l>
+                  <l>Shall go beyond the <hi>great Aemathien:</hi>
+                  </l>
+                  <l>Not far from <hi>Agen,</hi> ſhall expect the <hi>French,</hi>
+                  </l>
+                  <l>Help from <hi>Narbonne,</hi> deceived by <hi>Entertainment.</hi>
+                  </l>
+               </q> We ſee here, how plainly this man forewarns his own Country<g ref="char:EOLhyphen"/>men, that they ſhall be utterly conquered and over-run by the <hi>Engliſh.</hi> He names how they ſhall Land at <hi>Blay</hi> by <hi>Rochel,</hi> and ſhall poſſeſs all the Country of <hi>Guienne,</hi> and people it with <hi>Engliſhmen,</hi> and ſhall have <hi>Languedoc,</hi> and the Iſland called <hi>I,</hi> and all the Country as far as the great <hi>Aemathien,</hi> by which he means <hi>Germany,</hi> as he uſually calls the Empire by that name. And many more <hi>ſayings</hi> to the ſame purpoſe I could bring, to ſhew and confirm the ſame thing;
+<note place="margin">Cent. 3 St. 49. Cent. 6. St. 43. Cent. 6.7 &amp; 1.84. Cent. 7.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; 3.8. Cent. 8. &amp; 2.87. &amp; 6.12.</note> and that it is to be done in this Age, by our preſent <hi>King,</hi> And I can further ſhew out of the ſame Author, that the ſame Prince ſhall conquer <hi>Spain,</hi> and be Emperour of all <hi>Europe,</hi> and dethrone the <hi>Pope,</hi> and advance the true ancient Catholick and Apoſtolick Faith all over <hi>Chri<g ref="char:EOLhyphen"/>ſtendom.</hi> But my buſineſs at preſent is to comfort <hi>my Country<g ref="char:EOLhyphen"/>men,</hi> againſt their preſent ſorrows and amazements, and to rid them of their fears of <hi>Popery,</hi> by reaſon of his <hi>Royal Highneſs</hi>
+               <pb n="4" facs="tcp:32944:3"/>the Duke of <hi>York,</hi> whom they generally fear to be a <hi>Papist.</hi> Now what Religion the <hi>Duke</hi> is really of, I am not to exa<g ref="char:EOLhyphen"/>mine; only this I ſay, that ſo far as the credit of the famous <hi>Noſtradamus</hi> is able to warrant, his preſent Majeſty <hi>Charles</hi> the II. of <hi>Great Britain, France</hi> and <hi>Ireland</hi> King, <hi>Defender of the true ancient Catholick and Apoſtolick Faith,</hi> will have an Heir of his own Body lawfully begotten, as appears by this following <hi>Stanza.</hi>
+               <q>
+                  <bibl>
+                     <hi>Prophecies of the year 1600. St. 4.</hi>
+                  </bibl>
+                  <l>Du rond d'un Lis naiſtra un ſi grand Prince,</l>
+                  <l>Bien toſt &amp; tard venu dans ſa Province,</l>
+                  <l>
+                     <hi>Saturn</hi> en <hi>Libra</hi> en <hi>Exaltation,</hi>
+                  </l>
+                  <l>Maiſon de <hi>Venus,</hi> en deſcroiſante force,</l>
+                  <l>Dame en apres Maſculin ſoubs l'Eſcorie,</l>
+                  <l>Pour maintenir l'heureux ſang de <hi>Burbon.</hi>
+                  </l>
+               </q> In Engliſh thus:
+<q>
+                  <l>From the round of the Lilly ſhall be born a great Prince,</l>
+                  <l>Soon and late come into his Province,</l>
+                  <l>
+                     <hi>Saturn</hi> in <hi>Libra</hi> being in <hi>Exaltation,</hi>
+                  </l>
+                  <l>The Houſe of <hi>Venus,</hi> being in a decreaſing ſtrength:</l>
+                  <l>A Woman afterwards with a Male under the Bark,</l>
+                  <l>To maintain the happy bloud of <hi>Burbon.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>§. 7. In this Prophecy we are to conſider, firſt, who is this ſo <hi>great Prince born,</hi> as the Prophet calls him; and next, who ſhall be his <hi>Heir.</hi> As for the ſo <hi>great Prince born;</hi> true it is he is not called by name, but yet is he deſcribed by a character as ſure as if he were ſo. He is to be one who was to be born when the Planet <hi>Saturn</hi> ſhould be in the Sign called <hi>Libra,</hi> which is a Sign of the Houſe of <hi>Venus,</hi> and Exaltation of <hi>Saturn.</hi> Next, he muſt be born too at ſuch time as <hi>Saturn</hi> in <hi>Libra</hi> ſhall be <hi>de<g ref="char:EOLhyphen"/>creaſing in ſtrength.</hi> 3ly. He muſt be of the Royal Bloud of <hi>France,</hi> ſignified by the <hi>Round of the Lilly,</hi> or the <hi>Lilly</hi> in its Round; according to the manner of Coat-armour, where the <hi>Lillies</hi> are drawn or painted in a certain Circle, as they are with us in a <hi>Round Garter.</hi> 4ly. He muſt be ſuch an one as in one ſence ſhould <hi>come late,</hi> and in another ſhall <hi>come ſoon into his Province.</hi> And laſtly, He muſt be one of the Bloud of the Houſe of <hi>Burbon.</hi>
+            </p>
+            <p>§. 8. Now all theſe <hi>marks</hi> or <hi>characters</hi> are true of our Sove<g ref="char:EOLhyphen"/>raign Lord King <hi>Charles</hi> the II. and of no man but of him alone:</p>
+            <p>For 1ſt. without any thing of calculating the King's Nativi<g ref="char:EOLhyphen"/>ty,
+<pb n="5" facs="tcp:32944:3" rendition="simple:additions"/>it is well known generally that his Majeſty was born on the 29th. day of <hi>May,</hi> 1630. at what time the Planet <hi>Saturn</hi> was in the Sign <hi>Libra,</hi> which is the exaltation of <hi>Saturn,</hi> and Houſe of <hi>Venus,</hi> wherein both of them are greatly dignified. But then, 2dly. withal, <hi>Saturn</hi> was at that time ſo placed there, at the ve<g ref="char:EOLhyphen"/>ry end of <hi>Libra,</hi> and Retrograde, that though he was eſſenti<g ref="char:EOLhyphen"/>ally dignified in <hi>Libra,</hi> yet was it under a <hi>decreaſing</hi> force or ſtrength, or an abatement to his fortitude therein. 3dly. He is rightly deſcended by his Mother from the round of the <hi>Lilly,</hi> which is called a round, becauſe of his <hi>Garter</hi> about it. 4ly. He came ſoon or too ſoon to his Right to Reign, and yet late or ve<g ref="char:EOLhyphen"/>ry late in reſpect of his enjoyment. And laſtly, He is by his Mo<g ref="char:EOLhyphen"/>ther of the Bloud of <hi>Burbon.</hi> And as this is true of our King, ſo is it not true of any Prince beſides, of the Royal Bloud of <hi>France,</hi> and of the Houſe of <hi>Burbon.</hi>
+            </p>
+            <p>§. 9. Now to prove this Negative, we muſt note, that by the Bloud of <hi>Burbon</hi> and the <hi>Lilly,</hi> are to be underſtood ſome <hi>great Princes</hi> deſcended from that <hi>Branch,</hi> of the Royal Houſe of <hi>France,</hi> which was Duke of <hi>Burbon</hi> in <hi>France.</hi> From the firſt Duke of <hi>Burbon</hi> of the Royal Bloud, are deſcended many noble Families; but of theſe many of them are out of capacity to be comprehended under this <hi>our Mark,</hi> which the Prophet names. And thus are all theſe Families which are <hi>obſcure,</hi> and therefore ſuch as cannot be called <hi>Princes</hi> born; and thus alſo are all that are born or deſcended of <hi>illegitimate</hi> Branches; and thus again are all thoſe who though they are otherwiſe <hi>noble Families,</hi> yet are not born <hi>great Princes.</hi> Next we are to conſider, that this <hi>great Prince</hi> muſt be one born ſince the writing of this Prophe<g ref="char:EOLhyphen"/>cy, and one who has left behind him a <hi>poſthume Heir.</hi> And be ſure from <hi>Nostradamus</hi>'s time until this our Age, there was ne<g ref="char:EOLhyphen"/>ver yet any ſuch <hi>poſthume Heir</hi> left who became ſo great a Prince<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for whereas <hi>Nostradamus</hi> wrote in the time of <hi>Henry</hi> the II. of that Name <hi>French</hi> King; at what time <hi>Anthony</hi> Duke of <hi>Burbon</hi> was a young Child then born, who afterwards became King of <hi>Navarr.</hi> And his Son was <hi>Henry</hi> the IV. <hi>French</hi> King, who was the firſt of the Houſe of <hi>Burbon</hi> that became any thing of a <hi>great Prince,</hi> but was not <hi>born ſo,</hi> neither was he <hi>a poſthume.</hi> His Son was <hi>Lewis</hi> the XIII. <hi>French</hi> King, born a <hi>great Prince,</hi> but <hi>no poſthume.</hi> His Son is <hi>Lewis</hi> the XIV. the preſent <hi>French</hi> King,
+<pb n="6" facs="tcp:32944:4"/>and born a <hi>great Prince,</hi> but <hi>no poſthume,</hi> neither had he <hi>Saturn</hi> in <hi>Libra</hi> at his brith, but in the Sign <hi>Aquarius;</hi> and therefore no Child of his, though it ſhould prove a poſthume, can make him the man. Nor yet can the <hi>Dauphin</hi> his Son be that Prince, be<g ref="char:EOLhyphen"/>cauſe at his birth <hi>Saturn</hi> was in <hi>Scorpio.</hi> Nor can the preſent King of <hi>Spain,</hi> who alſo is of <hi>Burbon,</hi> be the man, who had <hi>Saturn</hi> in <hi>Scorpio</hi> too at <hi>his</hi> birth. Nor can the preſent <hi>Duke of Orleans</hi> be the perſon intended, at whoſe birth <hi>Saturn</hi> was in <hi>Aquarius.</hi> The Prince of <hi>Conde,</hi> and his Son the Duke of <hi>Enguien</hi> are of the Houſe of <hi>Burbon,</hi> but cannot properly be ſaid to be born <hi>great Princes,</hi> and beſides neither of them had <hi>Saturn</hi> at birth in the Sign <hi>Libra.</hi> The Duke of <hi>Savoy</hi> alſo is of this Bloud, but no <hi>great Prince</hi> born. Laſtly, To come unto the Iſſue of our late Queen <hi>Henrietta Maria,</hi> his Royal Highneſs <hi>James Duke of York</hi> was born when <hi>Saturn</hi> was in the Sign <hi>Sagittary,</hi> and the Prince of <hi>Crange</hi> when <hi>Saturn</hi> was in <hi>Cancer;</hi> ſo as neither of them al<g ref="char:EOLhyphen"/>ſo are in this capacity. And now having named all Princes of the Bloud of <hi>Burbon,</hi> that are in any capacity to be concerned in this Prophecy, and finding none of them under theſe Marks beſides, I make account it is moſt clearly true, that it is our pre<g ref="char:EOLhyphen"/>ſent Sovereign King <hi>Charles the II.</hi> of whom this Prophecy is ve<g ref="char:EOLhyphen"/>rily intended; for after him of any it cannot be expected, be<g ref="char:EOLhyphen"/>can ſe in him all the Marks and Characters are ſo fully agreed.</p>
+            <p>§. 10. Next come we to treat of the <hi>Heir</hi> therefore, who is to ſucceed this <hi>great Prince.</hi> Of whom it is ſaid, [<hi>A Woman or Wife afterwards with a Male under the bark</hi> or <hi>skin</hi>] which is as much as to ſay, with a <hi>male-Child</hi> in her <hi>womb, who ſhall main<g ref="char:EOLhyphen"/>tain the happy Bloud of</hi> Burbon. Intimating, that his Majeſty in his elder years ſhall be married again to a ſecond Queen, who being a young fruitful Woman, ſhall be <hi>great with Child</hi> and ſhall bring forth a <hi>Son,</hi> that ſhall make happy the Bloud of <hi>Burbon.</hi> From whence that Son ſhall claim, by the <hi>Fa<g ref="char:EOLhyphen"/>ther's ſide,</hi> our King being the <hi>eldest Son</hi> of <hi>Henrietta Maria,</hi> who was the youngeſt Daughter of <hi>Henry</hi> the IV. <hi>French</hi> King, who was the Son of <hi>Anthony,</hi> King of <hi>Navarr,</hi> and Duke of <hi>Burbon.</hi>
+            </p>
+            <p>§: 11. And thus have I ſhewed according to <hi>Nostradamus,</hi> (whoſe Prophecies I have never yet heard of to have failed) that our Sovereign Lord, our preſent King <hi>Charles</hi> the II. ſhall have lawful Iſſue-male of his own body begotten, to ſucceed
+<pb n="7" facs="tcp:32944:4" rendition="simple:additions"/>him in the Empereal Throne of this Kingdom. Which may be a good heartning at leaſt unto all honeſt <hi>Engliſhmen,</hi> who do ſincerely mean well, and intend not to raiſe any factions or ſtirs without cauſe, becauſe that our dangers of <hi>Popery</hi> approaching upon us by means of his Royal Highneſs being a <hi>Papiſt,</hi> are not ſo great as is generally expected.</p>
+            <p>§. 12. And the truth is, it's a ſtrange thing, this Prophecy, conſidering that in the life-time of this <hi>Michael Noſtradamus,</hi> neither the Houſe of <hi>Burbon,</hi> nor this Family of our <hi>Sovereign,</hi> were in any likelihood to be Kings either of <hi>England</hi> or of <hi>France;</hi> and yet ſee how ſtrangely things are come to paſs, on<g ref="char:EOLhyphen"/>wards of what he hath ſaid. But let us add one Stanza more of the Fate of this <hi>poſthume</hi> Prince, which is expected to be our King's next Heir.
+<q>
+                  <bibl>
+                     <hi>St. 48. of Proph. in 1600.</hi>
+                  </bibl>
+                  <l>The <hi>Phoenix</hi> of the <hi>old Charon</hi> ſhall be ſeen</l>
+                  <l>To be the first and last of the Sons:</l>
+                  <l>To ſhine in <hi>France</hi> beloved of every one;</l>
+                  <l>To reign a great while, with all the Honours</l>
+                  <l>That ever his Predeceſſors had;</l>
+                  <l>By which he ſhall make his Glory memorable.</l>
+               </q> Lo here a <hi>young Son,</hi> of an <hi>old Father,</hi> being all the Sons he ſhall ever have, (that is, of <hi>lawful birth</hi>) inheriting the Crown of <hi>France,</hi> which his Father ſhall conquer and leave unto him, and he ſhall enjoy it long, and with much good liking of all. The preſent <hi>Dauphine</hi> is an only Son, but not all the Sons his Father ever had; nor is he a <hi>Phoenix</hi> that is ſprung up out of his Fa<g ref="char:EOLhyphen"/>thers Aſhes, or after his death, as uſes to be ſaid of the <hi>Phoenix:</hi> nor ſhall he therefore reign long, if at all.</p>
+            <trailer>
+               <hi>God ſave the King.</hi> Amen.</trailer>
+         </div>
+         <div type="text">
+            <head>The Author's Prophetical Wiſh.</head>
+            <p>Let his Royal Highneſs <hi>James</hi> Duke of <hi>York</hi> live, and become as good a <hi>Proteſtant</hi> as any is in <hi>England;</hi> and let him enjoy greater Honours <hi>elſewhere,</hi> then the Crown of <hi>England</hi> is, at this day, worth.</p>
+            <p>But let <hi>Charles</hi> the Third, who is to be the lawful Son of <hi>Charles</hi> the Second, inherit the Empire of <hi>Europe,</hi> which his Father ſhall leave him; and let <hi>J. B.</hi> live to ſee it happily per<g ref="char:EOLhyphen"/>formed. <hi>Amen. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="text">
+            <pb n="8" facs="tcp:32944:5"/>
+            <head>A Word or two concerning the preſent COMET, or BLAZING-STAR.</head>
+            <p>BEfore ever this prodigious Meteor was viſible in <hi>England,</hi> we had notice of its appearing in ſeveral Parts beyond the Seas, by ſun<g ref="char:EOLhyphen"/>dry Letters from Eminent Merchants, and perſons of other (or ſome of greater) Qualities, ſome whereof were Printed in our <hi>Gazette,</hi> or <hi>News-Book:</hi> But it firſt was viſible to us in this Iſland of <hi>Great Britain,</hi> on <hi>Friday December</hi> the 10th. about half an hour paſt four of the Clock, <hi>P. M.</hi> or Afternoon. It appear'd of a pale dusky Colour, with a very prodigious Stream, at the leaſt 35 Degrees in length. Its ſignification cannot be good, becauſe it is purely Saturnine; And <hi>Saturn</hi> is a Star, as the Philoſophical <hi>Satyrs</hi> repreſent him. —
+<q>
+                  <l>Pale, and of aſhy Colour, Male-content;</l>
+                  <l>A <hi>Catiline</hi> to mortal Temperament;</l>
+                  <l>That would blow up the capital of Man</l>
+                  <l>With envious Influence! Melancholly, Wan!</l>
+                  <l>And if their hate be in an heavenly Breast,</l>
+                  <l>This <hi>Planet</hi> with that Fury is poſſeſt.</l>
+               </q> Howbeit, foraſmuch as this <hi>Comet</hi> riſes in the <hi>South-weſt,</hi> and its Buſh or Tail points directly <hi>North Eaſt</hi> from <hi>England,</hi> it cannot be of any malefique ſignification unto us, but rather (as it ſhall and doth happen to menace great Prejudice, Calamity and Misfortunes to befal ſuch People or Nations, that may envy our approaching happineſs, after the paſſing over of our great Cloud of Troubles by the late Accur<g ref="char:EOLhyphen"/>ſed PLOT, and the nefarious Projectors thereof) be of a conſequential Good unto theſe <hi>Britiſh</hi> Iſlands, which God of his great Mercy grant. <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>Comets</hi> are ſometimes the Meſſengers of good to ſome Nations, and not always the Denuntiators of Evil; according to <hi>Cabeus, Reſtus</hi> and other Meteorologiſts. And indeed there can be nothing ſo pernicious to one ſort of People, but may be profitable to another.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
